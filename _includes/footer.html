@@ -1,0 +1,15 @@
+{% if page.full_footer %}
+<div class="container-fluid">	
+	<div class="row-fluid">
+      {% for inst in site.data.institutions['institutions'] %}
+      <div class="col-sm-2 {% if forloop.first %} col-sm-offset-1 {% endif %}">
+        <a href="{{inst.link}}">
+          <img class="img-responsive" src="{{'assets/images/' | append: inst.image | absolute_url}}">
+        </a>
+      </div>
+      {% endfor %}
+	</div>
+</div>
+{% endif %}
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>

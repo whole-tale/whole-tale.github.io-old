@@ -1,0 +1,87 @@
+---
+layout: default
+---
+
+
+		 <a name="approach"></a> 
+	<div class="container-fluid" >
+		<div class="row" >
+		<div class="container">
+
+      <div class="page-header">
+          <h2>Whole Tale Approach</h2>
+      </div>
+
+    {% for bullet in page.bullets %}
+    {% assign clean = forloop.index0 | modulo: 3 %}
+    {% if clean == 0 and forloop.index0 > 0 %}
+      <div class="gap"></div>
+    {% endif %}
+    <div class="media col-sm-4" {% if clean == 0 and forloop.index0 > 0 %} style="clear:both"{% endif %}>
+        <div class="media-left">
+            <span type="button" class="btn btn-success btn-circle"><i class="glyphicon glyphicon-{{bullet.icon}}"></i></span>
+        </div>
+        <div class="media-body">
+          <h4 class="media-heading">{{bullet.name}}</h4>
+          <p>{{bullet.text}}</p>
+        </div>
+    </div>
+    {% endfor %}
+        </div>
+        </div>
+    </div>
+
+ <a name="getinvolved"></a> 
+<div class="container-fluid" id="involved">
+		<div class="container">
+
+      <div class="page-header">
+        <h2>Get Involved</h2>
+      </div>
+      <div class="row row-eq-height">
+        <div class="col-sm-6">
+          <div class="panel panel-default">
+            <div class="panel-heading">
+              <h3 class="panel-title">Participate</h3>
+            </div>
+            <div class="panel-body involve-body">
+              <h4>Join one of our science or cyberinfrastructure working groups</h4>
+		<div class="row">
+		   <div class="col-sm-6">
+		      <ul class="no-indent">
+                {% assign half = page.working_groups | size  | divided_by: 2 | ceil %}
+                {% for group in page.working_groups %}
+                  <li>{{group.name}}</li>
+                {% if forloop.index == half %}
+                  </ul>
+                </div>
+                <div class="col-sm-6">
+                  <ul class="no-indent">
+                {% endif %}
+                {% endfor %}
+             </ul>
+		   </div>
+		</div>
+            </div>
+          </div>
+					</div>
+					<div class="col-sm-6">
+          <div class="panel panel-default">
+            <div class="panel-heading">
+              <h3 class="panel-title">Contact</h3>
+            </div>
+            <div class="panel-body text-center involve-body">
+							<h4>Questions?  Comments?  Want to get involved?</h4>
+							<span class="center-block involve-button"><a class="btn btn-default btn-large" href="https://groups.google.com/forum/#!forum/wholetale">
+							<i class="glyphicon glyphicon-envelope social-button"></i>Join our mailing list</a></span>
+							<h4>Follow Us</h4>
+
+							<span class="center-block">
+							<!--<a href="">
+							<i class="fa fa-twitter social-link"></i></a>-->
+							<a href="https://github.com/whole-tale">
+							<i class="fa fa-github social-link"></i></a>						
+            </div>
+          </div>
+        </div>
+      </div>

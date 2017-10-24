@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+    <div class="container-fluid" role="main">
+      <div class="row title-page">
+	<div class="container text-center">
+      <img class="wt-logo-ph" src="{{ "assets/images/whole_tale_logo.png" | absolute_url }}" />
+      <h1>{{page.heading}}</h1>
+      <h2>{{page.subheading}}</h2>
+      {% if page.header_content %}
+      {{ page.content }}
+      {% endif %}
+	</div>
+      </div>
+    </div>
+      </div>
+      {{ content }}
+    </main>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>
