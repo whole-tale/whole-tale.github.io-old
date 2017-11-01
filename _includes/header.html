@@ -8,13 +8,12 @@
             <span class="icon-bar"></span>
           </button>
           <a class="navbar-brand" href="#wholetale"><img class='logo'
-          src='{{ "assets/images/whole_tale_logo_text_long_light.png" | absolute_url }} '></a>
+          src='{{ "assets/images/whole_tale_logo_text_long_light.png" | relative_url }} '></a>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
-            <li><a href="#approach">Approach</a></li>
-            <li><a href="#getinvolved">Get Involved</a></li>
-            <li><a href="interns2017.html">Summer 2017 Internships</a></li>
+            <li><a href="{{ '/team.html' | relative_url }}">Team</a></li>
+            <li><a href="{{ '/about.html' | relative_url }}">Get Involved</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>

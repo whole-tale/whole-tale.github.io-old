@@ -4,7 +4,7 @@
       {% for inst in site.data.institutions['institutions'] %}
       <div class="col-sm-2 {% if forloop.first %} col-sm-offset-1 {% endif %}">
         <a href="{{inst.link}}">
-          <img class="img-responsive" src="{{'assets/images/' | append: inst.image | absolute_url}}">
+          <img class="img-responsive" src="{{'assets/images/' | append: inst.image | relative_url}}">
         </a>
       </div>
       {% endfor %}
