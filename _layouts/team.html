@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+
+		 <a name="team"></a> 
+	<div class="container-fluid" >
+		<div class="row" >
+		<div class="container">
+
+      <div class="page-header">
+          <h2>Whole Tale</h2>
+      </div>
+
+    {% for person in site.data.team['team'] %}
+    {% assign loopthree = forloop.index | modulo: 3 %}
+    {% assign loopthree0 = forloop.index0 | modulo: 3 %}
+    {% if loopthree0 == 0 %}<div class="row">{% endif %}
+      <div class="col-sm-4" style="text-align: center;">
+        {%if person.github != nil %}
+        <a href="https://github.com/{{person.github}}">
+          <img src="https://github.com/{{person.github}}.png?size=200" width=200>
+        </a>
+        {% else %}
+          <img src="https://github.com/whole-tale.png?size=200" width=200>
+        {%endif%}
+        <p><b>{{person.name}}</b></p>
+        <p>{{person.role}}</p>
+        <p>{{person.institution}}</p>
+      </div>
+    {% if loopthree == 0 %}</div>{%endif%}
+    {% endfor %}
+        </div>
+        </div>
+    </div>
+        </div>
+        </div>
+    </div>

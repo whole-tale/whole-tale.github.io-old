@@ -1,0 +1,69 @@
+team:
+  - name: Bertram Ludaescher
+    role: Principal Investigator
+    github: ludaesch
+    institution: School of Information Sciences & National Center for
+      Supercomputing Applications (NCSA), University of Illinois at
+      Urbana-Champaign
+  - name: Kyle Chard
+    role: Co-Investigator
+    github: kylechard
+    institution: Computation Institute, University of Chicago and Argonne
+      National Laboratory
+  - name: Niall Gaffney
+    role: Co-Investigator
+    github: nigaffney
+    institution: Texas Advanced Computing Center (TACC), University of Texas at
+      Austin
+  - name: Matthew Jones
+    role: Co-Investigator
+    github: mbjones
+    institution: Director of Informatics Research and Development, University
+      of California at Santa Barbara
+  - name: Jarek Nabrzyski
+    role: Co-Investigator
+    institution: Director of Research Computing, University of Notre Dame
+  - name: Victoria Stodden
+    role: Co-Investigator
+    github: victoriastodden
+    institution: School of Information Sciences & National Center for
+      Supercomputing Applications (NCSA), University of Illinois at
+      Urbana-Champaign
+  - name: Matthew Turk
+    role: Co-Investigator
+    github: matthewturk
+    institution: School of Information Sciences & National Center for
+      Supercomputing Applications (NCSA), University of Illinois at
+      Urbana-Champaign
+  - name: Kandace Turner
+    role: Project Manager
+    github: kyturner
+    institution: University of Illinois & National Center for Supercomputing
+      Applications (NCSA)
+  - name: Kacper Kowalik
+    role: Software Architect
+    github: xarthisius
+    institution: University of Illinois & National Center for Supercomputing
+      Applications (NCSA)
+  - name: Sivakumar (Siva) Kulasekaran
+    role: Software Developer
+    github: aksivakumar
+    institution: Texas Advanced Computing Center (TACC), University of Texas at
+      Austin
+  - name: Mihael Hategan
+    role: Software Developer
+    github: hategan
+    institution: Computation Institute, University of Chicago and Argonne
+      National Laboratory
+  - name: Ian Taylor
+    role: Software Developer
+    github: ian-taylor
+    institution: University of Notre Dame
+  - name: Adam Brinckman
+    role: Software Developer
+    github: abrinckm
+    institution: University of Notre Dame
+  - name: Bryce Mecum
+    role: Software Developer
+    github: amoeba
+    institution: University of California at Santa Barbara
