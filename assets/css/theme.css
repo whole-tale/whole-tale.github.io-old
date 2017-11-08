@@ -272,6 +272,11 @@ hr {
   }
 }
 
+.bigtext {
+  font-size: 125%;
+  margin-top: 2.5em;
+}
 
-
-
+.bigtext img {
+ width: 100%;
+}
