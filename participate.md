@@ -7,10 +7,10 @@ header_content: false
 ---
 
 <div class="row bigtext" markdown="1">
-<div class="col-sm-4 col-sm-offset-2" markdown="1">
+<div class="col-sm-3 col-sm-offset-2" markdown="1">
 ![dashboard](/assets/images/participate/image2.png)
 </div>
-<div class="col-sm-4" markdown="1">
+<div class="col-sm-5" markdown="1">
 ## Whole Tale Dashboard
 
 The Whole Tale environment is completely free and open for use.  
@@ -22,7 +22,7 @@ in alpha and might not quite work like you (or we) expect!
 </div>
 
 <div class="row bigtext" markdown="1">
-<div class="col-sm-4 col-sm-offset-2" markdown="1">
+<div class="col-sm-5 col-sm-offset-2" markdown="1">
 ## Working groups
 
 Whole Tale is focused on addressing real scientific use cases. For this purpose we host a number of science and cyberinfrastructure working groups.
@@ -33,17 +33,17 @@ Cyberinfrastructure and engagement working groups focus on challenges associated
 
 <a>Contact us</a> to join a working group.
 </div>
-<div class="col-sm-4" markdown="1">
+<div class="col-sm-3" markdown="1">
 ![working_groups](/assets/images/participate/image1.png)
 </div>
 </div>
 
 <div class="row bigtext" markdown="1">
-<div class="col-sm-4 col-sm-offset-2" markdown="1">
+<div class="col-sm-3 col-sm-offset-2" markdown="1">
 ![internships](/assets/images/participate/image3.png)
 </div>
 
-<div class="col-sm-4" markdown="1">
+<div class="col-sm-5" markdown="1">
 ## Internships
 
 Each year we host interns to explore different aspects of the project, from
@@ -63,7 +63,7 @@ to promote reproducible research.
 </div>
 
 <div class="row bigtext" markdown="1">
-<div class="col-sm-4 col-sm-offset-2" markdown="1">
+<div class="col-sm-5 col-sm-offset-2" markdown="1">
 ## Workshops
 
 Workshops provide an opportunity for hands-on use and extension of the Whole
@@ -79,7 +79,7 @@ a wide range of approaches to capture provenance in RStudio environments.
 Information about the workshop is [available online](https://github.com/DataONEorg/provathon-2017).
 </div>
 
-<div class="col-sm-4" markdown="1">
+<div class="col-sm-3" markdown="1">
 </div>
 </div>
 
