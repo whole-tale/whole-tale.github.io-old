@@ -67,3 +67,11 @@ team:
     role: Software Developer
     github: amoeba
     institution: University of California at Santa Barbara
+  - name: Craig Willis
+    role: Software Developer
+    github: craig-willis
+    institution: University of Illinois & National Center for Supercomputing Applications (NCSA)
+  - name: Sebastian Wyngaard
+    role: Software Developer
+    github: swyngaard
+    institution: University of Notre Dame
