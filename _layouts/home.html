@@ -50,7 +50,7 @@ layout: default
 		   <div class="col-sm-6">
 		      <ul class="no-indent">
                 {% assign half = site.data.working_groups['working_groups'] | size  | divided_by: 2 | ceil %}
-                {% for group in page.working_groups %}
+                {% for group in site.data.working_groups['working_groups'] %}
                   <li>{{group.name}}</li>
                 {% if forloop.index == half %}
                   </ul>
