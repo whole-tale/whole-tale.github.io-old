@@ -1,0 +1,19 @@
+working_groups:
+  - name: Education and Training
+    coordinator: ...
+  - name: Materials Science
+    coordinator: Kyle Chard
+  - name: Astrophysics
+    coordinator: Matthew Turk
+  - name: Earth and Environmental Sciences
+    coordinator: 
+  - name: Social Sciences
+    coordinator: Jarek Nabrzyski
+  - name: Bioinformatics and Genomics
+    coordinator: ...
+  - name: Tool Development
+    coordinator: Kyle Chard
+  - name: Reproducibility
+    coordinator: Victoria Stodden
+  - name: Information Sciences
+    coordinator: Bertram Ludaescher

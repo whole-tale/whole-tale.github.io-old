@@ -24,16 +24,6 @@ bullets:
   - name: Data Dashboard
     icon: dashboard
     text: Manage data and utilize services within the Whole Tale environment using an intuitive and powerful data dashboard. 
-working_groups:
-  - name: Education and Training
-  - name: Materials Science
-  - name: Astrophysics
-  - name: Earth and Environmental Sciences
-  - name: Social Sciences
-  - name: Bioinformatics and Genomics
-  - name: Tool Development
-  - name: Reproducibility
-  - name: Information Sciences
 full_footer: true
 header_content: true
 ---
