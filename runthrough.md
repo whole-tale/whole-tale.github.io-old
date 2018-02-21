@@ -12,7 +12,7 @@ to explore published research.
 
 When you first visit [Whole Tale](https://dashboard.wholetale.org/), you'll
 need to log in with your credentials -- you can use just about any identity
-provider, like Globus, GitHub, or Google!
+provider, like your university credentials or Google!
 
 <!-- .slide: class="captioned" data-background-image="assets/images/slideshow/ss01_prelogin.png" data-background-position="center top 0.5em" data-background-size="auto 75%" -->
 
