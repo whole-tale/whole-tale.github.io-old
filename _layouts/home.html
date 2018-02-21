@@ -6,10 +6,50 @@ layout: default
          <a name="approach"></a> 
     <div class="container-fluid" >
         <div class="row" >
+        <div class="col-sm-4 col-sm-offset-1">
+
+      <div class="page-header">
+          <h2 class="text-center">Whole Tale News</h2>
+      </div>
+      {% for post in site.posts %}
+      <a href="{{post.url}}"><h4>{{post.title}}</h4></a>
+      <p>{{post.date | date: "%b %d, %Y"}}</p>
+      {{post.excerpt}}
+      {% endfor %}
+        </div> <!-- end of col-sm-4 -->
+        <div class="col-sm-4 col-sm-offset-2">
+        <div class="page-header">
+          <h2 class="text-center">Quick Links</h2>
+        </div>
+          <div class="row">
+            <a href="https://dashboard.wholetale.org/" class="btn btn-success col-sm-12 btn-lg">
+              Access Whole Tale
+            </a>
+          </div>
+            <div class="row">&nbsp;</div>
+          <div class="row">
+            <a href="https://dashboard.wholetale.org/" class="btn btn-info col-sm-12 btn-lg">
+              What is this "Whole Tale" thing?
+            </a>
+          </div>
+            <div class="row">&nbsp;</div>
+          <div class="row">
+            <a href="runthrough.html" class="btn btn-info col-sm-12 btn-lg">
+            How would I run a Tale?
+            </a>
+          </div>
+        </div> <!-- end of col-sm-4 -->
+        </div> <!-- end of top row -->
+
+        <div class="row">
+          <hr class="col-sm-6 col-sm-offset-3"/>
+        </div>
+
+        <div class="row" >
         <div class="container">
 
       <div class="page-header">
-          <h2>Whole Tale Approach</h2>
+          <h2>Our Approach</h2>
       </div>
 
     {% for bullet in page.bullets %}
@@ -36,7 +76,7 @@ layout: default
         <div class="container">
 
       <div class="page-header">
-        <h2>Get Involved</h2>
+        <a href="participate.html" class="btn-primary btn btn-large-text">Get Involved!</a>
       </div>
       <div class="row row-eq-height">
         <div class="col-sm-6">

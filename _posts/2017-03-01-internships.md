@@ -1,12 +1,12 @@
 ---
 layout: post
-heading: Summer Internships 2018
+title: Summer Internships 2017
 subheading: 
 full_footer: false
 header_content: false
 ---
 
-# Summer 2017 Internships
+The Whole Tale is inviting Internship applications for 2017!
 
 Scholarly publications are often disconnected from the underlying data and code
 that was used to produce the findings. There is no shortage of tools and
