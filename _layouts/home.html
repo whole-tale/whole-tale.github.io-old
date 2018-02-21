@@ -6,10 +6,10 @@ layout: default
          <a name="approach"></a> 
     <div class="container-fluid" >
         <div class="row" >
-        <div class="col-sm-4 col-sm-offset-1">
+        <div class="col-sm-7 col-sm-offset-1">
 
       <div class="page-header">
-          <h2 class="text-center">Whole Tale News</h2>
+          <h2 class="text-center">Featured Tales</h2>
       </div>
       {% for post in site.posts %}
       <a href="{{post.url}}"><h4>{{post.title}}</h4></a>
@@ -17,22 +17,14 @@ layout: default
       {{post.excerpt}}
       {% endfor %}
         </div> <!-- end of col-sm-4 -->
-        <div class="col-sm-4 col-sm-offset-2">
+        <div class="col-sm-3">
         <div class="page-header">
-          <h2 class="text-center">Quick Links</h2>
+          <h2 class="text-center">&nbsp;</h2>
         </div>
-          <div class="row">
-            <a href="https://dashboard.wholetale.org/" class="btn btn-success
-            col-sm-12 btn-lg">
-              <span class="glyphicon glyphicon-play-circle"></span>
-              Access Whole Tale
-            </a>
-          </div>
-            <div class="row">&nbsp;</div>
           <div class="row">
             <a href="https://dashboard.wholetale.org/" class="btn btn-info col-sm-12 btn-lg">
               <span class="glyphicon glyphicon-question-sign"></span>
-              What is this "Whole Tale" thing?
+              What is "Whole Tale"?
             </a>
           </div>
             <div class="row">&nbsp;</div>
