@@ -67,6 +67,10 @@ team:
     role: Software Developer
     github: amoeba
     institution: University of California at Santa Barbara
+  - name: Thomas Thelen
+    role: Software Developer
+    github: ThomasThelen
+    institution: NCEAS, University of California at Santa Barbara
   - name: Craig Willis
     role: Software Developer
     github: craig-willis
