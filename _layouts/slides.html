@@ -1,0 +1,83 @@
+<!doctype html>
+<html>
+  <head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+<title>{{page.title}}</title>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/css/reveal.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/css/theme/black.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+
+<!-- Theme used for syntax highlighting of code -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css">
+<link href="https://fonts.googleapis.com/css?family=Questrial" rel="stylesheet">
+
+<!-- Printing and PDF exports -->
+<script>
+    var link = document.createElement( 'link' );
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = window.location.search.match( /print-pdf/gi ) ?
+      'https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/css/print/pdf.css' :
+      'https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/css/print/paper.css';
+    document.getElementsByTagName( 'head' )[0].appendChild( link );
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/lib/js/head.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/js/reveal.min.js"></script>
+<style type="text/css">
+.reveal h1, .reveal h2 {
+  text-transform: none;
+}
+
+.reveal .captioned p {
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+  left: 0;
+  right: 0;
+  height: 3.0em;
+  margin-right: 20px;
+  margin-left: -14px;
+  padding: 10px;
+  background-color: rgba(32, 32, 32, 0.5);
+  border: 2px solid rgba(255, 255, 255, 0.9);
+  font-size: 60%;
+}
+
+</style>
+  </head>
+
+  <body>
+    <div class="reveal">
+      <div class="slides">
+        <section data-markdown
+           data-separator="^\n---\n"
+           data-separator-vertical="^\n----\n">
+          <script type="text/template">
+{{page.content}}
+          </script>
+        </section>
+      </div>
+    </div>
+<script>
+    // More info about config & dependencies:
+    // - https://github.com/hakimel/reveal.js#configuration
+    // - https://github.com/hakimel/reveal.js#dependencies
+    Reveal.initialize({
+        dependencies: [
+            { src: 'https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/plugin/markdown/marked.js' },
+            { src: 'https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/plugin/markdown/markdown.min.js' },
+            { src: 'https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/plugin/notes/notes.min.js', async: true },
+            { src: 'https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/plugin/highlight/highlight.min.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+            { src: 'https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/plugin/math/math.min.js', async: true }
+        ],
+        center: false,
+        transition: 'none',
+        backgroundTransition: 'none'
+    });
+</script>
+  </body>
+</html>
+
