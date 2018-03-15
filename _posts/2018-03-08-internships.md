@@ -6,8 +6,6 @@ full_footer: false
 header_content: false
 ---
 
-## Summer Internships 2018
-
 The Whole Tale is inviting Internship applications for 2018!
 
 The act of sharing scientific knowledge is rapidly evolving away from
