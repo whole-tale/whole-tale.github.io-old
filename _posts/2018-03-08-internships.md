@@ -114,7 +114,7 @@ the reference letter directly to
  * `wholetale-interns-2018@googlegroups.com` (cc to `ludaesch@illinois.edu`). 
    The Subject should be:  `Summer Internship 2018: <Applicant's Name>`
 
-Applications must be completed and submitted **no later than March 30, 2018**.
+Applications must be completed and submitted **no later than April 6, 2018**.
 
 ### Funding Acknowledgment
 
