@@ -124,5 +124,4 @@ https://www.nsf.gov/awardsearch/showAward?AWD_ID=1541450).
 ### For more information...
 
 If you have questions or problems about the application process or internship
-program in general, please e-mail 
-[wholetale-interns-2018@googlegroups.com](wholetale-interns-2018@googlegroups.com).
+program in general, please e-mail `wholetale-interns-2018@googlegroups.com`.
