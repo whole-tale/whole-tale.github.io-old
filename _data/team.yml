@@ -67,6 +67,10 @@ team:
     role: Software Developer
     github: amoeba
     institution: University of California at Santa Barbara
+  - name: Damian Perez
+    role: Software Developer
+    github: cyberdante
+    institution: University of Notre Dame
   - name: Thomas Thelen
     role: Software Developer
     github: ThomasThelen
