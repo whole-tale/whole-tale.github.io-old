@@ -35,19 +35,23 @@ The Workshop features an overview and introduction to Whole Tale, lightning talk
 
 We want participants to have an opportunity to share their enthusiasm and inspiration! The workshop lightning talks provide a great opportunity to speak about your experiences, opinions or ideas relating to reproducible research tools. They can be used to generate inspiration, discussion and participation in other sessions at the workshop, breakout sessions and even just in the coffee breaks. All accepted lightning talks will be eligible for travel support.
 
+## Travel Support
+
+Participants can apply for up to $400 travel allowance plus 2 nights lodging.  Priority will be given to those presenting Lightning Talks. 
+
 ## Important Dates
 
-* Lightning talk submissions: 30 July 2018 (anywhere on Earth, no further extensions).
-* Lighting talk decisions: 9 August,  2018
-* Travel support requests: 13 August, 2018 
-* Decisions on travel support announced: 20 August, 2018
+* Lightning talk submissions: 10 August 2018 (anywhere on Earth, no further extensions).
+* Lighting talk decisions: 15 August, 2018
+* Travel support requests: 15 August, 2018 
+* Decisions on travel support announced: 22 August, 2018
 * Workshop:  Sept 13 -14, 2018
 * Post-workshop report writing (participation is open to all)
  
 ## Call for participation / Actions
 
-Express your interest in participating by sending an email to mtc@illinois.edu or completing the form found here: https://docs.google.com/forms/d/1jCTDBYjilw7jmFoObtAVgQTSqCNmCzxcurM6ZrZSatU/edit
+Express your interest in participating by sending an email to mtc@illinois.edu or completing the form found here: (https://goo.gl/forms/q5uJuvTVsFWVjXyn1)[https://goo.gl/forms/q5uJuvTVsFWVjXyn1]
 
-Submit a short (maximum 1 page) abstract of your lightning talk before 30 July, 2018
+Submit a short (maximum 1 page) abstract of your lightning talk before 10 August, 2018
 
 Check wholetale.org to learn about speaker and presentation opportunities, travel awards, and workshop content. 
