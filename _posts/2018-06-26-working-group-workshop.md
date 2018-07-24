@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Whole Tale Workshop: Tools and Approaches for Publishing Reproducible Research
+title: Whole Tale Workshop on Tools and Approaches for Publishing Reproducible Research
 subheading: 
 full_footer: false
 header_content: false
