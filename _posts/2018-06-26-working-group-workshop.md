@@ -7,7 +7,8 @@ header_content: false
 ---
 
 Whole Tale Workshop: Tools and Approaches for Publishing Reproducible Research
- 
+
+
 ## Dates: September 13-14, 2018 
 ## Location: Big Ten Center, Chicago
 
@@ -50,7 +51,7 @@ Participants can apply for up to $400 travel allowance plus 2 nights lodging.  P
  
 ## Call for participation / Actions
 
-Express your interest in participating by sending an email to mtc@illinois.edu or completing the form found here: (https://goo.gl/forms/q5uJuvTVsFWVjXyn1)[https://goo.gl/forms/q5uJuvTVsFWVjXyn1]
+Express your interest in participating by sending an email to mtc@illinois.edu or completing the form found here: [https://goo.gl/forms/q5uJuvTVsFWVjXyn1](https://goo.gl/forms/q5uJuvTVsFWVjXyn1)
 
 Submit a short (maximum 1 page) abstract of your lightning talk before 10 August, 2018
 
