@@ -4,10 +4,10 @@ title: Working Group Workshop 2018
 subheading: 
 full_footer: false
 header_content: false
+description: Whole Tale Workshop: Tools and Approaches for Publishing Reproducible Research
 ---
 
 Whole Tale Workshop: Tools and Approaches for Publishing Reproducible Research
-
 
 ## Dates: September 13-14, 2018 
 ## Location: Big Ten Center, Chicago
