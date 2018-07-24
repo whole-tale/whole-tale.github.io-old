@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Working Group Workshop 2018
+title: Whole Tale Workshop: Tools and Approaches for Publishing Reproducible Research
 subheading: 
 full_footer: false
 header_content: false
