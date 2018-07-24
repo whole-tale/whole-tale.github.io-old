@@ -9,12 +9,12 @@ layout: default
         <div class="col-sm-7 col-sm-offset-1">
 
       <div class="page-header">
-          <h2 class="text-center">Featured Tales</h2>
+          <h2 class="text-center">News</h2>
       </div>
       {% for post in site.posts %}
       <a href="{{post.url}}"><h4>{{post.title}}</h4></a>
       <p>{{post.date | date: "%b %d, %Y"}}</p>
-      {{post.excerpt}}
+      {{post.description}}
       {% endfor %}
         </div> <!-- end of col-sm-4 -->
         <div class="col-sm-3">
