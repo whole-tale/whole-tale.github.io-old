@@ -6,8 +6,6 @@ full_footer: false
 header_content: false
 ---
 
-Whole Tale Workshop: Tools and Approaches for Publishing Reproducible Research
-
 ## Dates: September 13-14, 2018 
 ## Location: Big Ten Center, Chicago
 
