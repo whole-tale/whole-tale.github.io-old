@@ -35,7 +35,7 @@ We want participants to have an opportunity to share their enthusiasm and inspir
 
 ## Travel Support
 
-Participants can apply for up to $400 travel allowance plus 2 nights lodging.  Priority will be given to those presenting Lightning Talks. 
+Participants from academia can apply for travel support, which includes 2 nights of lodging and transport (estimated at $400, depending on actual cost and availability of funds).  Priority will be given to those presenting Lightning Talks. 
 
 ## Important Dates
 
