@@ -39,17 +39,19 @@ Participants from academia can apply for travel support, which includes 2 nights
 
 ## Important Dates
 
-* Lightning talk submissions: 10 August 2018 (anywhere on Earth, no further extensions).
+* Lightning talk (tentative title + optional abstract): 10 August 2018  
 * Lighting talk decisions: 15 August, 2018
-* Travel support requests: 15 August, 2018 
+* Travel support requests: 17 August, 2018 
 * Decisions on travel support announced: 22 August, 2018
-* Workshop:  Sept 13 -14, 2018
-* Post-workshop report writing (participation is open to all)
+* Final lightning talk abstracts: 7 Sept 2018 
+* Workshop:  Sept 13-14, 2018
+* Post-workshop report writing ends (participation is open to all): 1 Oct 2018
  
 ## Call for participation / Actions
 
 Express your interest in participating by sending an email to mtc@illinois.edu or completing the form found here: [https://goo.gl/forms/q5uJuvTVsFWVjXyn1](https://goo.gl/forms/q5uJuvTVsFWVjXyn1)
 
-Submit a short (maximum 1 page) abstract of your lightning talk before 10 August, 2018
+## Questions / Contact
+* MT Campbell mtc@illinois.edu (meeting logistics, including travel)
+* Bertram Ludaescher ludaesch@illinois.edu (general information and program)
 
-Check wholetale.org to learn about speaker and presentation opportunities, travel awards, and workshop content. 
