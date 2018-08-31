@@ -31,7 +31,8 @@ Science working groups focus on discussing current challenges in materials scien
 
 Cyberinfrastructure and engagement working groups focus on challenges associated with provenance and reproducibility, education, and interacting with publishers.
 
-<a>Contact us</a> to join a working group.
+See the [Working groups](working_groups.html) page for more information.
+
 </div>
 <div class="col-sm-3" markdown="1">
 ![working_groups](/assets/images/participate/image1.png)
@@ -63,7 +64,7 @@ to promote reproducible research.
 </div>
 
 <div class="row bigtext" markdown="1">
-<div class="col-sm-5 col-sm-offset-2" markdown="1">
+<div class="col-sm-8 col-sm-offset-2" markdown="1">
 ## Workshops
 
 Workshops provide an opportunity for hands-on use and extension of the Whole
@@ -74,24 +75,23 @@ external cyberinfrastructure providers.
 In 2017 we hosted our first workshop in collaboration with DataONE. The
 workshop allowed more than 20 researchers from Archaeology, Environmental
 Science, and Computer Science  to build reproducible workflows and investigate
-a wide range of approaches to capture provenance in RStudio environments.
+a wide range of approaches to capture provenance in RStudio environments.  Information 
+about the workshop is [available online](https://github.com/DataONEorg/provathon-2017).
 
-Information about the workshop is [available online](https://github.com/DataONEorg/provathon-2017).
-</div>
+The upcoming [Workshop on Tools and Approaches for Publishing Reproducible
+Research](/2018/06/26/working-group-workshop.html) will be held September
+13-14, 2018.
 
-<div class="col-sm-3" markdown="1">
 </div>
 </div>
 
 <div class="row bigtext" markdown="1">
-<div class="col-sm-6 col-sm-offset-3" markdown="1">
+<div class="col-sm-8 col-sm-offset-2" markdown="1">
 ## Other ways to get involved
 
-Please complete a short (< 5 minutes) survey to help us understand your requirements (https://goo.gl/3AtgQm).
-
-Join our mailing list to keep up with updates and new features (https://groups.google.com/forum/#!forum/wholetale)
-
-Follow (or contribute to) our open code repository (https://github.com/whole-tale)
+* Please complete a short survey to help us understand your requirements: <https://goo.gl/3AtgQm>
+* Join our mailing list to keep up with updates and new features <https://groups.google.com/forum/#!forum/wholetalae>
+* Follow (or contribute to) our open code repository <https://github.com/whole-tale>
 
 </div>
 </div>
