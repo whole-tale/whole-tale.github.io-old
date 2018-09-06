@@ -8,7 +8,7 @@ header_content: false
 
 The Whole Tale project, in cooperation with the US region of the Research Data Alliance (RDA/US) and its [early career fellowship program RDA/US Data Share](http://us.rd-alliance.org/early-programs-fellowship), invites applications for the joint WT-RDA/US Early Career fellowship program. Through self-directed projects or discussions fellows will engage with both the WT and RDA communities to explore issues related to reproducibility, provenance, sharing, and citation in computational research that combines software and data.
 
-The program offers two levels of awards:
+The program offers two kinds of awards:
 * Project Fellows (Project + Travel): Up to 3 applicants will receive a $5,000 stipend over a 6 month period and travel support to attend the RDA Thirteenth Plenary and 2019 WT Working Group workshop.
 * Travel Fellows (Travel only): Up to 7 applicants will receive travel support to attend the RDA Thirteenth Plenary 
 
