@@ -1,19 +1,60 @@
 working_groups:
-  - name: Education and Training
-    coordinator: ...
-  - name: Materials Science
-    coordinator: Kyle Chard
+  - name: Archaeology and Environmental Sciences
+    coordinator: "[Kyle Bocinsky](mailto:bocinsky@gmail.com), [Bertram Ludaescher](mailto:ludaesch@illinois.edu)"
+    status: Active
+    url: https://github.com/whole-tale/whole-tale/tree/master/working_groups/archaeology-envsci
+    description: The working group focuses on the needs of researchers in archaeology and environmental science domains.
   - name: Astrophysics
-    coordinator: Matthew Turk
-  - name: Earth and Environmental Sciences
-    coordinator: 
-  - name: Social Sciences
-    coordinator: Jarek Nabrzyski
-  - name: Bioinformatics and Genomics
-    coordinator: ...
-  - name: Tool Development
-    coordinator: Kyle Chard
-  - name: Reproducibility
-    coordinator: Victoria Stodden
+    coordinator: "[Matthew Turk](mailto:mjturk@illinois.edu)"
+    status: Active
+    url: https://github.com/whole-tale/whole-tale/tree/master/working_groups/astro
+    description: This group focuses on astrophysics simulations and the integration of analysis capabilities in WT.  It explores community codes for analysis and visualization and integration with WT capabilities. Given the scale of astronomy and astrophysics analyses this group will drive extensions for using HPC resources.
+  - name: Digital Agriculture
+    coordinator: "[Craig Willis](mailto:willis8@illinois.edu)"
+    status: Proposed 
+    description: The proposed working group will focus on reproducibility and sharing of data and code in the context of digital agriculture applications use cases. 
+    url: https://github.com/whole-tale/whole-tale/tree/master/working_groups/digag
+  - name: Education and Training
+    coordinator: "[Craig Willis](mailto:willis8@illinois.edu)"
+    status: Proposed
+    description: The proposed working group will focus on education and training programs using the WT infrastrucutre including integration with the Carpentries and RDA/US Early Career Fellows program.
+    url: https://github.com/whole-tale/whole-tale/tree/master/working_groups/education
   - name: Information Sciences
-    coordinator: Bertram Ludaescher
+    coordinator: "[Peter Darch](mailto:ptdarch@illinois.edu), [Victoria Stodden](mailto:vcs@illinois.edu)"
+    status: Active
+    url: https://github.com/whole-tale/whole-tale/tree/master/working_groups/infosci
+    description: The information science working group brings together information scientists and research data librarians to engage with research communities to understand user needs and requirements end evaluate effectiveness of the developed system in meeting project goals.
+  - name: Open Science Infrastructure
+    coordinator: "[Craig Willis](mailto:willis8@illinois.edu)"
+    status: Proposed
+    description: The proposed  working group will bring together representatives from key open science infrastructure projects related to computational reproducibility and publishing of composite research objects (e.g., code, data, and environment) to improve interoperability and maximize system utility for researchers.
+    url: https://github.com/whole-tale/whole-tale/tree/master/working_groups/open-infrastructure
+  - name: Materials Science
+    coordinator: "[Ben Blaiszik](blaiszik@uchicago.edu), [Kyle Chard](chard@uchicago.edu)"
+    status: Active
+    description: The materials science working group focuses on the pragmatic aspects of sharing and publishing materials science data and analysis processes. The group will bring together materials scientists, computer scientists, repository owners, publishers, and others that are interested in the challenges, technologies, and approaches associated with computational materials science. The group is particularly focused on methods to publish data and analysis processes in ways that are easily sharable and reproducible. Thus, the group will cover aspects such as data management, analysis, computational modalities, curation, persistent identifiers, citation, reproducibility, distribution, archival, etc.
+    url: https://github.com/whole-tale/whole-tale/tree/master/working_groups/materials
+  - name: Social Science
+    coordinator: "Jake Bowers, [Victoria Stodden](mailto:vcs@illinois.edu)"
+    status: Active
+    url: https://github.com/whole-tale/whole-tale/tree/master/working_groups/socialsci
+    description: Provide a communication channel for social science researchers and WT, to test, prototype and engage around design and architecture decisions for WT.
+  - name: Biodiversity Informatics
+    coordinator: "[Bertram Ludaescher](mailto:ludaesch@illinois.edu)"
+    status: Proposed
+    url: https://github.com/whole-tale/whole-tale/tree/master/working_groups/biodiversity
+  - name: Provenance
+    coordinator: "[Bertram Ludaescher](mailto:ludaesch@illinois.edu)"
+    status: Proposed
+    description: 
+    url: https://github.com/whole-tale/whole-tale/tree/master/working_groups/provenance
+  - name: Publishing
+    coordinator: "[Victoria Stodden](mailto:vcs@illinois.edu)"
+    status: Active
+    url: https://github.com/whole-tale/whole-tale/tree/master/working_groups/publishing
+    description: This Working Group will gather interested members from the publishing community to engage with the Whole Tale project. This working group will inform the Whole Tale project of relevant developments and interests in the publishing community. The working group can iterate on potential pilots or collaborations as makes sense to members.
+  - name: Reproducibility
+    coordinator: "[Nancy Wilkins-Diehr](mailto:wilkinsn@sdsc.edu), [Victoria Stodden](mailto:vcs@illinois.edu)"
+    status: Active
+    url: https://github.com/whole-tale/whole-tale/tree/master/working_groups/reproducibility
+    description: Liaison between community needs and Whole Tale developers regarding enabling reproducibility and provenance within the Whole Tale architecture
