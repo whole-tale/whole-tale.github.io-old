@@ -59,7 +59,7 @@ Travel Fellows will experiment with new ways of analyzing data and delivering re
 Important dates:
 
 * September 6, 2018: Applications open 
-* September 30, 2018: Applications due 
+* ~~September 30, 2018~~ October 15, 2018: Applications due 
 * October 15, 2019: 	Award notifications 
 * October 2018 - March 2019: 	Project execution period 
 * April 2-4, 2019: 	[RDA Thirteenth
