@@ -25,9 +25,7 @@ full_footer: true
 header_content: true
 ---
 
-<a href="https://dashboard.wholetale.org/" class="btn btn-success
-btn-large-text">
-<span style="font-weight: 700; font-size: 150%; margin: 10px 10px 0 0; float:left">
-Access </span>
-<img src="assets/images/whole_tale_logo_text_long_light.png" width="200px">
+<a href="https://dashboard.wholetale.org/" class="btn btn-success btn-large-text" style="padding: .58571429em 1.2em;">
+  <div style="font-weight: 700; font-size: 86%; display: inline-block;">ACCESS</div>
+  <img src="assets/images/whole_tale_logo_text_long_light.png" style="width:200px; margin: 0 0 4px 0;">
 </a>
