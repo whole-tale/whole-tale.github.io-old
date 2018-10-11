@@ -90,7 +90,7 @@ Research](/2018/06/26/working-group-workshop.html) will be held September
 ## Other ways to get involved
 
 * Please complete a short survey to help us understand your requirements: <https://goo.gl/3AtgQm>
-* Join our mailing list to keep up with updates and new features <https://groups.google.com/forum/#!forum/wholetalae>
+* Join our mailing list to keep up with updates and new features <https://groups.google.com/forum/#!forum/wholetale>
 * Follow (or contribute to) our open code repository <https://github.com/whole-tale>
 
 </div>
