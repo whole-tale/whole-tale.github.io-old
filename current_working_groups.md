@@ -14,7 +14,7 @@ header_content: false
 ## Current Working Groups
 The following are active and proposed working groups. Working group documentation, meeting notes, and outputs are maintained by each working group. 
 
-{% assign sorted = (site.data.working_groups['working_groups'] | sort: 'name')  %}
+{% assign sorted = site.data.working_groups['working_groups'] | sort: 'name' %}
 {% for group in sorted %}
   <h3 style="margin-top: 20px">{{group.name}}</h3>
 
