@@ -33,17 +33,14 @@ with.
 
 ---
 
-Once the compute engine has been initialized and everything is ready to go,
-click on the "Go To Tale" button.  This will take you to the compute
-environment -- in this case, [Jupyter](https://jupyter.org/).
+Once the compute engine has been initialized, click on the "LIGO Tutorial" in the "Launched Tales" panel. This will take you to the compute environment -- in this case, [Jupyter](https://jupyter.org/).
 
 <!-- .slide: class="captioned" data-background-image="assets/images/slideshow/ss04_launched.png" data-background-position="center top 0.5em" data-background-size="auto 75%" -->
 
 ---
 
-When you're inside a Tale, you'll be inside some folders.  The top one is
-`work`, and underneath that you'll fine `home` (your very own persistent home
-directory) and `data`.
+When you're inside a Tale, you'll be inside some working directory containing: 
+`home` (your very own persistent home directory) and `data`.
 
 <!-- .slide: class="captioned" data-background-image="assets/images/slideshow/ss05_jupyter.png" data-background-position="center top 0.5em" data-background-size="auto 75%" -->
 
