@@ -60,8 +60,8 @@ Important dates:
 
 * September 6, 2018: Applications open 
 * ~~September 30, 2018~~ October 15, 2018: Applications due 
-* October 15, 2019: 	Award notifications 
-* October 2018 - March 2019: 	Project execution period 
+* ~~October 15, 2018~~ October 31, 2018: Award notifications
+* November 2018 - April 2019: 	Project execution period
 * April 2-4, 2019: 	[RDA Thirteenth
 Plenary](https://www.rd-alliance.org/plenaries/rda-thirteenth-plenary-meeting-philadelphia-us), Philadelphia, PA 
 * TBA: Whole Tale Working Group Workshop 
