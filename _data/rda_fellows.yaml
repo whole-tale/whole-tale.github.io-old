@@ -1,0 +1,45 @@
+rda_fellows:
+  - name: Santiago Núñez-Corrales
+    title: Doctoral Student, University of Illinois
+    bio: Santiago is a PhD candidate in the Informatics program at the University of Illinois at Urbana-Champaign and an ACM SIGHPC/Intel Computational and Data Science Fellow (2017), with a minor in Global Studies. He obtained a B.S, in Computer Engineering from the Costa Rica Institute of Technology. His current research involves understanding complex multiscale stochastic systems - systems with irreducible noise that can be described at multiple scales and are thermodynamically irreversible- by focusing on interactions rather than dynamics or trajectories through stochastic methods, and developing mathematical physics theory and cyberinfrastructure embodying principles derived from this view. At present, Núñez-Corrales is the Outreach Coordinator for the Open Storage Network, an NSF-funded initiative that aims at creating a nation-scale distributed research data storage cyberinfrastructure layer.
+    image: NunezCorrales-photo.jpg
+    project: "Reproducing scientific explanations: a Hierarchies of Hypothesis Companion for the Whole Tale environment in computational biology and complex systems modeling"
+    wg_ig: Biodiversity Informatics, Provenance, Open Science Infrastructure
+  - name: Christina Ore
+    title: Doctor of Public Health, University of Arizona
+    bio: Christina Ore is dedicated to community, inter-generational health and well-being that comes from a deep connection to place, people, and memory. Born and raised in southwestern Arizona, she is Quechua-mestizo (Peru) and Irish (US). Christina has nearly 20 years of experience as a public health practitioner working for Indigenous communities, tribal governments and national/ regional tribal organizations in U.S., Guam, and Mexico. In 2018, Christina received her DrPH from the University of Arizona (UA), Zuckerman College of Public Health, in policy and management. Her dissertation centered and privileged Indigenous knowledge to re frame public health practice. Christina's multidisciplinary minor included coursework from the UA, Rogers College of Law, Indigenous Peoples Law and Policy Program (IPLP) and UA, Sociology Department. Christina is currently a Senior Analyst with the Pascua Yaqui Tribe’s Health Services Division (PYHSD). She works on system improvement initiatives related to self-governance, integration, and public health accreditation. She is founding member of the UA American Indian Indigenous Health Alliance (AIIHA), member of the Native American and Indigenous Studies Association (NAISA) and US Indigenous Data Sovereignty Network (USIDSN). Christina lives in Tucson, Arizona with her husband, two children, and extended family, including her father.
+    image: ChristinaOre-photo.png
+    project: "Hiak Hitevi: Exploring realities of computation research and data sharing for Indigenous health and well-being"
+    wg_ig: Social Science, International Indigenous Data Sovereignty
+  - name: Hyoungjoo Park,
+    bio: Hyoungjoo Park is a PhD candidate in the School of Information Studies at the University of Wisconsin – Milwaukee. Hyoungjoo’s dissertation examined the impact of research data sharing and reuse on data citation in Science, Technology, Engineering and Mathematics (STEM) fields. In her dissertation, Hyoungjoo examined the interdisciplinary data citation, data self-citation, data type, disciplinary differences, data sharing. As a data fellow, Hyoungjoo will examine data citation by comparatively analyzing Event Data Index and Data Citation Index.
+    title: Doctoral Student, University of Wisconsin
+    image: ParkHyoungjoo-photo.jpg
+    project: The impact of research data sharing and reuse on data citation in biological sciences
+    wg_ig: Information Science, Open Science Infrastructure; Sharing Rewards and Credit (SHARC)  and Disciplinary Collaboration Framework
+  - name: Cheryl Thompson
+    bio: Cheryl Thompson is a Postdoctoral Researcher at the iSchool at the University of Illinois at Urbana-Champaign. Her research interests lie in the conditions that advance or deter reproducibility and data reuse, especially in relation to scientific data practices and workforce. As a fellow, she will investigate the data infrastructure, practices, and expertise required to for reproducibility in astronomy.
+    title: Postdoctoral Researcher, University of Illinois
+    image: CAThompson-photo.jpg
+    project: "From Star Charts to Simulations: Supporting Reproducibility & Reuse in Astronomy"
+    wg_ig:  Astronomy and Open Science Infrastructure; Reproducibility and Repository Platforms for Research Data.
+  - name: Ashirwad Barnwal
+    title: Doctoral Student, Iowa State University
+    bio: Ashirwad Barnwal is a second year PhD student in the Department of Civil Engineering and a first year master’s student in the Department of Statistics at Iowa State University. He graduated with a master’s degree in civil engineering from Iowa State in the summer of 2017 and later joined the research group of Dr. Anuj Sharma to work in the area of transportation data analytics. For the last one year, he has been working on developing a data visualization tool to help Iowa Department of Transportation (DOT) streamline their winter maintenance efforts. More recently, he became part of the intersection analysis project sponsored by the University of Nebraska Medical Center (UNMC) to model the impact of cognitive decline in elderly people on their decision making at the yellow light dilemma zones. As a WT-RDA/US fellow, he will explore the ways to popularize the tools and technologies that facilitate reproducible research.
+    image: Barnwal-photo.jpg
+    wg_ig: Open Science Infrastructure, RDA Data Versioning
+  - name: Deborah A. Garwood
+    bio: "Deborah A. Garwood is a second-year PhD student in the Department of Information Science at Drexel University. An affiliate of Drexel’s Metadata Research Center, she is also a Research Fellow whose interests center on Digital Curation, Archives, Interdisciplinary Research, and Metadata. Her work on publicly funded, interdisciplinary, data-driven research, co-authored with advisor Alex Poole, has been published in The Journal of Documentation, Library and Information Science Research, and The International Journal of Information Management. In 2016 Ms. Garwood presented research on microformats at the International Conference on Dublin Core and Metadata Applications in Copenhagen, Denmark. From 2006 to 2009 she was a contributing editor for the MIT Press publication PAJ: A Journal of Performance and Art. Ms. Garwood holds a Master of Science in Library and Information Science from Drexel University, a Master of Fine Arts from Hunter College, CUNY, and a BA from Oberlin College."
+    title: Doctoral Student, Drexel University
+    image: GarwoodDA-photo.jpg
+    wg_ig: WT Information Science, RDA Vocabulary Service Interest Group (VSIG)
+  - name: Angela Okune
+    bio: Angela Okune is a doctoral candidate in the Anthropology Department at the University of California, Irvine. She studies data practices and infrastructures in Nairobi, Kenya in order to explore broader questions of knowledge production, equity and socio-economic development on the continent. In her previous work, Angela helped to start the research department at iHub, Nairobi's innovation hub for the tech community and was also a manager of the Open and Collaborative Science in Development Network (OCSDNet) from 2014 - 2018. Find her full CV here.
+    title: Doctoral Student, University of California
+    image: AngelaOkune-photo.jpeg
+    wg_ig: WT Social Sciences Working Group, RDA Ethics and Social Aspects of Data and Data for Development, Digital Practices in History and Ethnography RDA Interest Group (DPHE).
+  - name: Ewa Zegler-Poleska
+    title: Doctoral Student, Indiana University 
+    bio: Ewa Zegler-Poleska is pursuing Information Science PhD in the Department of Information and Library Science at the Indiana University School of Informatics, Computing, and Engineering (SICE), with a minor in History and Philosophy of Science. Before joining SICE Ewa studied online journalism and received a Master’s degree in Polish language and literature. Her current interests focus on studying science through the analyses of scholarly communication, including novel types of outputs such as research data and code. As a WT-RDA/US fellow, she will explore the questions of evaluating evolving research outputs and the role data and code play in academic incentive structure
+    image: EwaZegler-Poleska-photo.png
+    wg_ig: Publishing, Open Science Infrastructure, Social Science, Astrophysics. RDA  Sharing Rewards and Credit, RDA/WDS Publishing Data, Data Usage Metrics
