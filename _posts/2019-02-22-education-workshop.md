@@ -23,13 +23,12 @@ We are interested in getting a range of perspectives from multiple domains and a
 
 **Thu-Mai Christian**, *Assistant Director for Archives, Odum Institute for Research in Social Sciences, University of North Carolina at Chapel Hill*
 
-**April Clyburne-Sherin**, *Director of Scientific Outreach, Code Ocean*
-
-**Neal Davis**, *Assistant Director of Training, Computational Science and Engineering, University of Illinois at Urbana Champaign*
-
-**Matt Krafczyk**, *Postdoctoral Research Associate, National Center for Supercomputing Applications*
+**Lula Chen**, *Doctoral student, Political Science, University of Illinois at Urbana Champaign*
 
 **Katherine Wood**, *Predoctoral Fellow, Psychology, University of Illinois at Urbana Champaign*
 
-**Lula Chen**, *Doctoral student, Political Science, University of Illinois at Urbana Champaign*
+**Matt Krafczyk**, *Postdoctoral Research Associate, National Center for Supercomputing Applications*
 
+**Neal Davis**, *Assistant Director of Training, Computational Science and Engineering, University of Illinois at Urbana Champaign*
+
+**April Clyburne-Sherin**, *Director of Scientific Outreach, Code Ocean*
