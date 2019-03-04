@@ -15,7 +15,11 @@ Keynote by **Victoria Stodden**, Associate Professor at iSchool and NCSA faculty
 We are interested in getting a range of perspectives from multiple domains and all career stages. Snacks and refreshments will be served.
 
 **When**: March 7th, 2019 from 8:30am to noon
+
 **Where**: National Center for Supercomputing Applications, room 1040
+
+**Agenda**: [https://go.ncsa.illinois.edu/rr-workshop](https://go.ncsa.illinois.edu/rr-workshop)
+
 
 ### Speakers:
 
