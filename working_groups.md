@@ -22,7 +22,7 @@ See the list of [active and proposed working groups](current_working_groups.html
 
 ## Proposing a new working group
 
-We welcome proposals for new working groups.  If you are comfortable with Github, [submit an issue](https://github.com/whole-tale/whole-tale/issues/new) describing your proposed working group or feel free to email a proposal to <mailto:info@wholetale.org>. 
+We welcome proposals for new working groups.  If you are comfortable with GitHub, [submit an issue](https://github.com/whole-tale/whole-tale/issues/new) describing your proposed working group or feel free to email a proposal to <mailto:info@wholetale.org>.
 
 ## Working group guidelines
 
