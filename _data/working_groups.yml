@@ -9,11 +9,6 @@ working_groups:
     status: Active
     url: https://github.com/whole-tale/whole-tale/tree/master/working_groups/astro
     description: This group focuses on astrophysics simulations and the integration of analysis capabilities in WT.  It explores community codes for analysis and visualization and integration with WT capabilities. Given the scale of astronomy and astrophysics analyses this group will drive extensions for using HPC resources.
-  - name: Digital Agriculture
-    coordinator: "[Craig Willis](mailto:willis8@illinois.edu)"
-    status: Proposed 
-    description: The proposed working group will focus on reproducibility and sharing of data and code in the context of digital agriculture applications use cases. 
-    url: https://github.com/whole-tale/whole-tale/tree/master/working_groups/digag
   - name: Education and Training
     coordinator: "[Craig Willis](mailto:willis8@illinois.edu)"
     status: Proposed

@@ -3,24 +3,24 @@ layout: home
 heading: Reproducibility Simplified
 subheading: Use Whole Tale to empower and share your research
 bullets:
-  - name: Abstract Storage Layer
-    icon: search
-    text: Access Whole Tale accessible repositories via common storage interfaces with a unified namespace. 
-  - name: Unified Authentication
-    icon: user
-    text: Support actions within the Whole Tale environment using a unified identity and flexible authentication mechanisms.
-  - name: Flexible Frontends
-    icon: eye-open
-    text: Develop and share analyses using an intuitive frontend model (e.g., Jupyter notebooks) and leveraging integrated Python and R APIs.
-  - name: Living Publications
-    icon: cog
-    text: Enable creation of living publications that integrate and link data, computations, and scholarly articles.
-  - name: Event Systems
-    icon: refresh
-    text: Automate processing via a dynamic Event System that monitors changes within the ecosystem (e.g. new data published).
-  - name: Data Dashboard
-    icon: dashboard
-    text: Manage data and utilize services within the Whole Tale environment using an intuitive and powerful data dashboard. 
+  - name: Platform for Reproducible Research
+    icon: check 
+    text: Whole Tale enables researchers to define and create computational environments to manage computational experiments and expose them for analysis and reproducibility. 
+  - name: Executable Research Objects
+    icon: check 
+    text: The Whole Tale platform is built around the idea of re-runnable research objects that include data, code, and the complete software environment.
+  - name: Community Engagement
+    icon: check 
+    text: Through our working groups and workshops, we engage with a broad community of researchers, educators, and infrastructure developers.
+  - name: Open Source 
+    icon: check 
+    text: We are developing an open source platform and welcome both re-use and contribution from the research infrastructure community.
+  - name: Open Curriculum
+    icon: check 
+    text: We are dedicated to the improvement of education and training for reproducible research practices.
+  - name: Usability
+    icon: check 
+    text: As we develop a web-based platform, we recognize the importance of usability and onduct regular tests to improve the system.
 full_footer: true
 header_content: true
 ---
