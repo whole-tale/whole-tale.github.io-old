@@ -1,8 +1,7 @@
 ---
 layout: post
 year: 2019
-title: 2019 Exploring Levels of Reproducibility with Whole Tale
-
+title: Exploring Levels of Reproducibility with Whole Tale
 header_content: false
 ---
 

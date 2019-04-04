@@ -1,7 +1,7 @@
 ---
 layout: post
 year: 2019
-title: 2019 Analysis of Verified Replication Packages from the American Journal for Political Science
+title: Analysis of Verified Replication Packages from the American Journal for Political Science
 header_content: false
 ---
 
