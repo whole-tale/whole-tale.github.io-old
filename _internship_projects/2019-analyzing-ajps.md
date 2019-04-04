@@ -1,11 +1,9 @@
 ---
 layout: post
 year: 2019
-name: Analysis of Verified Replication Packages from the American Journal for Political Science
+title: 2019 Analysis of Verified Replication Packages from the American Journal for Political Science
 header_content: false
 ---
-
-# Analysis of Verified Replication Packages from the American Journal for Political Science
 
 ## Project Description
 

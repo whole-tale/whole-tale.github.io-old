@@ -1,11 +1,9 @@
 ---
 layout: post
 year: 2019
-name: Benchmarking Machine Learning Methods in Materials Science
+title: 2019 Benchmarking Machine Learning Methods in Materials Science
 header_content: false
 ---
-
-# Benchmarking Machine Learning Methods in Materials Science
 
 ## Project Description
 
