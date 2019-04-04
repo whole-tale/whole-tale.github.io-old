@@ -1,12 +1,10 @@
 ---
 layout: post
 year: 2019
-name: Exploring Levels of Reproducibility with Whole Tale
+title: 2019 Exploring Levels of Reproducibility with Whole Tale
 
 header_content: false
 ---
-
-# Exploring Levels of Reproducibility with Whole Tale
 
 ## Project Description
 
