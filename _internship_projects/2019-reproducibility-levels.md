@@ -55,4 +55,4 @@ in practice.
 
 [^Barb18]: Barba, Lorena A.: Terminologies for Reproducible Research. [arXiv:1802.03311](https://arxiv.org/abs/1802.03311) (2018). 
 
-[^RBDF16]: Rauber, Andreas et al. PRIMAD: Information gained by different types of reproducibility. Reproducibility of Data-Oriented Experiments in e-Science (Dagstuhl Seminar 16041). Leibniz-Zentrum für Informatik, Schloss Dagstuhl, Germany, 2016. [http://hdl.handle.net/11577/3194169](http://hdl.handle.net/11577/3194169).
+[^RBDF16]: Rauber, Andreas et al. PRIMAD: Information gained by different types of reproducibility. Reproducibility of Data-Oriented Experiments in e-Science (Dagstuhl Seminar 16041). Leibniz-Zentrum für Informatik, Schloss Dagstuhl, Germany, 2016. ([download](http://drops.dagstuhl.de/opus/volltexte/2016/5817/pdf/dagrep_v006_i001_p108_s16041.pdf))
