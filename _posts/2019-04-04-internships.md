@@ -29,11 +29,11 @@ undergraduates, graduate students and recent postgraduates!
 ### Schedule
 
   * **April 5** - Application period opens
-  * **May 10** - Deadline for receipt of applications
-  * **May 17** - Notification of acceptance 
-  * **June 3** - Program begins
-  * **July 5** - Midterm evaluations
-  * **August 9** - Program concludes
+  * **May 3** - Deadline for receipt of applications
+  * **May 10** - Notification of acceptance 
+  * **May 20** - Program begins
+  * **June 18** - Midterm evaluations
+  * **July 269** - Program concludes
 
 The exact start date will be determined by the mentor in coordination with the
 student to  accommodate academic calendars.
@@ -93,8 +93,7 @@ information for their organization.
 ### To Apply
 
 
-
-Complete the [online application](https://goo.gl/forms/J3NJipyQDSk9vSBR2) which
+Complete the [online application](https://forms.gle/rtrPTFotxogR6tpXA) which
 also asks you to provide the following information: 
 
  * a **cover letter** identifying the project(s) you are interested in, the
@@ -113,7 +112,7 @@ the reference letter directly to
  * `wholetale-interns-2019@googlegroups.com` (cc to `ludaesch@illinois.edu`). 
    The Subject should be:  `Summer Internship 2019: <Applicant's Name>`
 
-Applications must be completed and submitted **no later than May 10, 2019**.
+Applications must be completed and submitted **no later than May 3, 2019**.
 
 ### Funding Acknowledgment
 
