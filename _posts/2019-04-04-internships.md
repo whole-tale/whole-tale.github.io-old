@@ -33,7 +33,7 @@ undergraduates, graduate students and recent postgraduates!
   * **May 10** - Notification of acceptance 
   * **May 20** - Program begins
   * **June 18** - Midterm evaluations
-  * **July 269** - Program concludes
+  * **July 26** - Program concludes
 
 The exact start date will be determined by the mentor in coordination with the
 student to  accommodate academic calendars.
