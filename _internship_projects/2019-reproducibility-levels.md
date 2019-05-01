@@ -43,7 +43,7 @@ in practice.
  * A final project report or presentation (e.g., poster + abstract).  
 
 
-**Primary Mentor**: Bertram Ludäscher, University of Illinois at Urbana-Champaign
+**Primary Mentors**: Bertram Ludäscher and Victoria Stodden, University of Illinois at Urbana-Champaign
 
 **Secondary Mentor(s)**: Timothy McPhillips
 
