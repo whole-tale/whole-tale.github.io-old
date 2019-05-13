@@ -30,7 +30,7 @@ undergraduates, graduate students and recent postgraduates!
 
   * **April 5** - Application period opens
   * **May 6** ~~May 3~~ - Deadline for receipt of applications
-  * **May 10** - Notification of acceptance 
+  * **May 16** ~~May 10~~ - Notification of acceptance 
   * **May 20** - Program begins
   * **June 18** - Midterm evaluations
   * **July 26** - Program concludes
